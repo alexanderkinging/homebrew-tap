@@ -1,10 +1,10 @@
 class ObsidianCliHelper < Formula
   desc "Obsidian CLI helper for AI agents"
   homepage "https://github.com/alexanderkinging/obsidian-official-cli"
-  url "https://github.com/alexanderkinging/obsidian-official-cli/archive/refs/tags/v3.1.1.tar.gz"
-  sha256 "15667b4266400fe35ab4361bce56620000b973a98ec79d9c56bd81a27db31410"
+  url "https://github.com/alexanderkinging/obsidian-official-cli/archive/refs/tags/v3.3.0.tar.gz"
+  sha256 "1560da7d90ab7e841965edd1f1c262aadedec9974ab250ffa458ec33cf1e413b"
   license "MIT"
-  version "3.1.1"
+  version "3.3.0"
 
   depends_on :macos
   depends_on "node" => :optional
