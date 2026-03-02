@@ -1,10 +1,10 @@
 class ObsidianCliOfficial < Formula
   desc "Official Obsidian CLI wrapper for AI agents"
   homepage "https://github.com/alexanderkinging/obsidian-official-cli"
-  url "https://github.com/alexanderkinging/obsidian-official-cli/archive/refs/tags/v3.3.1.tar.gz"
-  sha256 "df4efe937ce318ae15f3a9e4aa25f4b3a33c82644f34b248fdbd3b6da0439a2f"
+  url "https://github.com/alexanderkinging/obsidian-official-cli/archive/refs/tags/v4.0.0.tar.gz"
+  sha256 "4101fbc0298486d27dde08606b1d8c10443be18fe7879d7c95f0b24ad72030cd"
   license "MIT"
-  version "3.3.1"
+  version "4.0.0"
 
   depends_on :macos
   depends_on "node" => :optional
